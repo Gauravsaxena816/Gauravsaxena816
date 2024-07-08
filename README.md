@@ -6,7 +6,9 @@
 ✌️ Feel free to collaborate !!
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
-[![Gaurav's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gauravsaxena816&show_icons=true&theme=dark)](https://github.com/Gauravsaxena816/github-readme-stats)
+[![Gaurav's GitHub | Dependencies](https://stats.quine.sh/Gauravsaxena816/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Gauravsaxena816)
+[![Gaurav's GitHub | Stats](https://stats.quine.sh/Gauravsaxena816/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Gauravsaxena816)
+[![Gaurav's GitHub | Languages Over Time](https://stats.quine.sh/Gauravsaxena816/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Gauravsaxena816)
 
 ## Socials 🤖:
 [![](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/not_perrytheplatypus) [![](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gaurav-saxena-155165203) [![](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/kingDarkPhoenix) 
