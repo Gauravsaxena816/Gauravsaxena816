@@ -1,6 +1,6 @@
 ## Hi there , I'm Gaurav👋
 <a href="https://github.com/gauravsaxena816">
-    <img src="https://readme-typing-svg.demolab.com?font=Forte&size=24&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Gaurav+Saxena;Techie+%7C+Btech+Student+%7C+Software+Engineer;AI+%7C+Computer+Vision+%7C+Bots" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Forte&size=24&duration=2000&pause=100&multiline=true&width=800&height=100&lines=Gaurav+Saxena;Techie+%7C+Btech+Student+%7C+Software+Engineer;AI+%7C+Computer+Vision+%7C+Bots" alt="Typing SVG" />
 </a>
 <br/>
 
