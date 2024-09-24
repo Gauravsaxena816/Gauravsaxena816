@@ -6,7 +6,7 @@
 
 👩🏻‍💻 A tech geek sharing about my journey and learnings in tech<br/>
 👩🏻‍🎓 Studying Electronics Engineering at the Jaypee Institute of Information technology,Noida , `Pre-final` year<br/>
-💭 Currently learning about AI-ML-DL!<br/>
+💭 Currently learning AI-ML-DL!<br/>
 ✌️ Feel free to collaborate !!
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
